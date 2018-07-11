@@ -1,1 +1,3 @@
 # Scapy
+#This is simply a repo of some Scapy stuff I'm keeping that has proven useful. 
+# These scripts/code are meant for educational purposes ONLY so use them at your own risk and please don't DoS networks you don't own with them. That's just not nice...
